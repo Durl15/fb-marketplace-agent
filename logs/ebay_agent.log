@@ -1,0 +1,31 @@
+
+==================================================
+eBay Agent | keywords=['contractor tools', 'dewalt', 'makita', 'milwaukee tool']
+Price range: $20-$600
+==================================================
+
+
+[*] Fetching eBay listings for: 'contractor tools'
+  Found 25 listings
+
+  Scored 0 new listings for 'contractor tools'
+
+[*] Fetching eBay listings for: 'dewalt'
+  Found 25 listings
+
+  Scored 0 new listings for 'dewalt'
+
+[*] Fetching eBay listings for: 'makita'
+  Found 25 listings
+
+  Scored 0 new listings for 'makita'
+
+[*] Fetching eBay listings for: 'milwaukee tool'
+  Found 25 listings
+
+  Scored 0 new listings for 'milwaukee tool'
+
+==================================================
+High-value alerts this run: 0
+==================================================
+

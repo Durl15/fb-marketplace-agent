@@ -29,3 +29,722 @@ Price range: $20-$600
 High-value alerts this run: 0
 ==================================================
 
+
+==================================================
+eBay Agent | keywords=['contractor tools', 'dewalt', 'makita', 'milwaukee tool']
+Price range: $20-$600
+==================================================
+
+
+[*] Fetching eBay listings for: 'contractor tools'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=contractor+tools&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'contractor tools': N/A
+
+[~] Scoring: RYOBI Contractor Canvas Tool Bag Large Green Black Soft Side 903209044 NEW — $14.9
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but RYOBI brand and 'NEW' condition at $14.90 offers modest flip potential if comps support a $25-35 resale price on tool bags.
+  sold_avg=$None | offer=$10.00 | https://www.ebay.com/itm/156768847802?_skw=contractor+tools&hash=item248026c7ba:g:MOMAAOSwtqVnyeA1
+
+[~] Scoring: Steelite 13in Heavy Duty Contractor Tool Bag with Double-Sided Pockets & Strap — $15.98
+  sold_avg=N/A
+  [LOW] score=32 | No sold price data available and tool bags are a saturated low-margin category with heavy competition from big-box retailers, limiting resale upside at this price point.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/389381376261?_skw=contractor+tools&hash=item5aa8f04905:g:leQAAeSwk~JpQlhG
+
+  Scored 2 new listings for 'contractor tools'
+
+[*] Fetching eBay listings for: 'dewalt'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=dewalt&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'dewalt': N/A
+
+[~] Scoring: [NEW] (DCB606) DEWALT 20V MAX*/60V MAX* FLEXVOLT 6Ah Battery — $120.88
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available, but DEWALT FLEXVOLT 6Ah batteries are high-demand items; at $120.88 the margin is thin since retail is ~$129 and typical sold comps hover around $90-110 used, limiting new-unit flip upside.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/336221259487?_skw=dewalt&hash=item4e485946df:g:KPMAAeSw--9p-7HA&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZM3pKLyi5PEBwKg3VucDTCvo%2Fh1IkbIdxAjAi0alhOkn0h6jy7qN4RzLDC%2BryNVbn6GljNagv7K9mLR8f90RIIIV59YAkWaihXBg0XCMKM68cg5be0knNIBLi2MWj0RSYJrgAw0Jr7lkbY%2Fzc3opiQdi7ySnvTGm6KRRjQDN%2BZPfwczSfEjo3FrNF5S1ZQDMJ5ngxS88xwkmPyJUC1Swn7L5YO%2BicyVd8N1%2F4EkhV90xgNkoZQDBY%2FDEBcKGezt0y3JknOpGBun82CeZa5QLOUABFXMhsFt6v9YSl9q6NiSQ%3D%3D
+
+[~] Scoring: DEWALT 4 Amp Battery Charger 12V & 20V Volt MAX Li-Ion DCB1104 (OB) — $19.95
+  sold_avg=N/A
+  [MID] score=62 | DEWALT is a high-demand brand with strong resale velocity, and the DCB1104 charger typically sells for $25-40 on eBay, suggesting a modest but real margin at $19.95 especially as an open-box unit with low entry cost.
+  sold_avg=$None | offer=$14.00 | https://www.ebay.com/itm/187948855814?_skw=dewalt&hash=item2bc29ff206:g:GCkAAeSwVvpo5oM6
+
+[~] Scoring: Pack 12.0AH For DeWalt 20V 20 Volt Max XR Lithium Ion Battery DCB206-2 DCB205-2 — $80.0
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available, but DeWalt 20V XR batteries have strong brand demand and resale velocity; $80 for a 12Ah pack is moderately priced but margin is uncertain without comp data.
+  sold_avg=$None | offer=$60 | https://www.ebay.com/itm/306672219646?_skw=dewalt&hash=item476716b5fe:g:akEAAeSwPq9pSj2f
+
+[~] Scoring: 2 pack Battery Adapter with USB Compatible with Dewalt 20V Battery,20V to 18V — $18.39
+  sold_avg=N/A
+  [LOW] score=22 | No sold price data available and this is a generic low-cost adapter accessory with thin margins, high competition, and limited resale upside at $18.39 retail.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/136876775764?_skw=dewalt&hash=item1fde7dd954:g:MjYAAeSwm9NpSk7q
+
+  Scored 4 new listings for 'dewalt'
+
+[*] Fetching eBay listings for: 'makita'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=makita&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'makita': N/A
+
+[~] Scoring: New Makita 18V XDT19 Brushless Cordless 1/4" Impact 4 Speed 18 Volt Quick Shift — $125.5
+  sold_avg=N/A
+  [MID] score=62 | Makita XDT19 is a well-recognized brushless impact driver with strong resale demand; no sold_price_avg available but $125.50 for a new unit is competitively priced with typical market values around $150-180, suggesting moderate margin potential.
+  sold_avg=$None | offer=$105 | https://www.ebay.com/itm/204035873800?_skw=makita&hash=item2f817c5c08:g:vdMAAeSwDIVqGJCf
+
+  Scored 1 new listings for 'makita'
+
+[*] Fetching eBay listings for: 'milwaukee tool'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=milwaukee+tool&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'milwaukee tool': N/A
+
+[~] Scoring: Milwaukee M18 FUEL 18V 1/2" Compact Impact Wrench 250 ft-lbs Tool Only — $180.0
+  sold_avg=N/A
+  [MID] score=52 | Without sold price data, this Milwaukee M18 FUEL impact wrench at $180 is moderately attractive given Milwaukee's strong brand demand, but retail is ~$199 and used/open-box comps often sell $160-220, leaving thin margins after fees.
+  sold_avg=$None | offer=$140 | https://www.ebay.com/itm/366449690151?_skw=milwaukee+tool&hash=item55521a8627:g:tlkAAeSww5dqHkCo&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZPyBq1gw7JUpiuzyvPODU76GsXxCrzKvrpVSwSuXKtFAn332%2F5SwaTrJQuAEJBlH2ULI7jH5%2FDL83WWDJKDlnt%2Fb1cuWV9GDVnN1LMkYQQU55X%2FruNJkoXmlXfvyJ1FZ3es%2FcV9O0yclf0Ye8lLmwzw93q9XrnPO0P0DOeNpKa18nLkT3jT2dtRv7ALBT2rk%2BljbsTjsb3UogBOZve8VCH4X%2FT%2BXw09uJ2GnqHZuBmJTnn8GeKI3fwGSn23qsYjiOU8J073tNqF52yhMsvZlu361USHfIvETBS%2FSHrELqYWw%3D%3D
+
+[~] Scoring: Milwaukee M12 Ratchet 2457-20 12V 3/8" Drive Cordless Tool Only - Brand New — $81.0
+  sold_avg=N/A
+  [MID] score=52 | No sold_price_avg available, but Milwaukee M12 2457-20 is a high-demand, fast-moving tool with strong brand recognition; $81 is near typical market rate for tool-only units, leaving modest but not exceptional margin.
+  sold_avg=$None | offer=$65 | https://www.ebay.com/itm/358627109337?_skw=milwaukee+tool&hash=item537fd769d9:g:QHsAAeSwLlNqHgzZ
+
+[~] Scoring: Cordless Cut off Tool for Milwaukee 18V Battery (Tool Only), 4 Inch Brushless Cu — $87.84
+  sold_avg=N/A
+  [LOW] score=32 | No sold price data available and this appears to be a Milwaukee-compatible aftermarket/OEM tool (not genuine Milwaukee), limiting resale premium and making margin potential uncertain at $87.84.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/800082769183?_skw=milwaukee+tool&hash=itemba48a6351f:g:33oAAeSwUg1qF9XQ&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaxATZEI47hFxAR41RZx6vwrRGTf%2B59N2sBQaaun%2BMHLUkTUdoHX52GQCFdIxrfE4NuU9m%2BrR1Tu5M1KewTeaxX1G%2BjLKmItLipI8cuozNWKrRZd8oKFV%2Fykvx7IHIfaeVmlEBW2O3Q4HhMByBjSHac7OLCfQFOIa%2Bhgj8S%2FWOZNH2OH7%2BiEpav9YCBZcHDbZ8RQBLbzrCq4AJaURcgTHJyI0D9UTUDMdpNeApEvRsVisXarnvfmOBHJyTw6b2KFGomfqx4W5PND%2FwKScsmUztLh1BR0ChqqPLjsKH7Qd%2BrAw%3D%3D
+
+[~] Scoring: Milwaukee Drill Kit 3497-22 M12 FUEL Hammer Drill, Impact Driver + Batteries NEW — $195.0
+  sold_avg=N/A
+  [HIGH] score=72 | Milwaukee M12 FUEL combo kits are high-demand, fast-moving tools with strong brand recognition; without sold_price_avg, current $195 price appears competitive but market comps for this kit typically range $220-$280 sold, suggesting solid margin potential.
+  sold_avg=$None | offer=$160 | https://www.ebay.com/itm/358627139068?_skw=milwaukee+tool&hash=item537fd7ddfc:g:h-8AAeSwEz1qHg82
+
+[~] Scoring: Milwaukee 2526-20 M12 12 Volt  FUEL™ Oscillating Multi-Tool — $103.99
+  sold_avg=N/A
+  [MID] score=52 | Milwaukee M12 FUEL tools have strong brand recognition and consistent resale demand, but without sold_price_avg data and a current price of ~$104, margin potential is uncertain and requires manual comp verification before committing.
+  sold_avg=$None | offer=$85.00 | https://www.ebay.com/itm/364146245961?_skw=milwaukee+tool&hash=item54c8cec149:g:Uq0AAeSw4mxof5zb
+
+[~] Scoring: Milwaukee M12 FUEL Cordless Brushless Random Orbit Sander Tool Only — $160.0
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but Milwaukee M12 FUEL sanders typically sell $120-$150 used, making $160 current price likely at or above market for a tool-only listing.
+  sold_avg=$None | offer=$110 | https://www.ebay.com/itm/198330072710?_skw=milwaukee+tool&hash=item2e2d64be86:g:7TAAAeSwQOlp83qC&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZjM48YWYQoR0e3zAqdUQ9XdW3e6JYhMfUy6%2B0LX66g%2FJf0Nrn2dLqrl2GBGTUtL8Ex2UISXZH%2BdAX2Sjx1m2xWxjMLswSdZ%2FEQXb%2FYk%2Fi5gbKs90%2FJNNAwRg7c2mMyKIe%2Byr7%2Bp3dPnRr0jGUlY%2FNgYTf9YdvTy4Zact9ENh5uNvHjRVqeXdTxiGEj3MOk5%2Bue9YMbl8Y8rdyQfKIlfH2pIVarcmy8BMWKlLDqDoQvMKsct%2B7j6NKFgNeCpuM66wiOQI%2FvAl%2FeRC3vCdV3tmWjnPE8PrxnenjasMcxCQbaCg%3D%3D
+
+  Scored 6 new listings for 'milwaukee tool'
+
+==================================================
+High-value alerts this run: 1
+==================================================
+
+Email alert sent -> diowaj@gmail.com (1 listings)
+
+==================================================
+eBay Agent | keywords=['contractor tools', 'dewalt', 'makita', 'milwaukee tool']
+Price range: $20-$600
+==================================================
+
+
+[*] Fetching eBay listings for: 'contractor tools'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=contractor+tools&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'contractor tools': N/A
+
+[~] Scoring: New Contractor Pro Gatorback Electrician's 18-Pocket Tool Pouch - P/N B201 — $38.0
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but Gatorback is a recognized pro-grade brand with moderate resale demand; at $38 the margin opportunity is uncertain without comparable sales.
+  sold_avg=$None | offer=$28 | https://www.ebay.com/itm/357077374410?_skw=contractor+tools&hash=item53237855ca:g:PdgAAOSwcnpoSGIR&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYB9CCzNUm4pL2jkidqiKbNOQSh1nUostLAPQz7fKontHjrXu9UL0w%2BBKx2Kd%2BpfgAfewTBLCzJVfuM96uWyR%2BNGzwIdu%2BzpvS4AlxLkmMQ0cj3pt0LVtK67BNannkgBdvg2CvOFFB36hSEJxWB0zdDcQwrMNHCkL49aAXXNMUzZGm4g6RxkX6zOuUqspMX6ltidaRvAGMShZ8CnXfVemFY8smWeFips%2BXKouvMPb5SLrLq0oe5MxwZ%2B8jnp039CHsj%2BkAQI1EHImux5Cnm0uYKFeY%2BEHKy%2FcG0Ug6mUQfi3w%3D%3D
+
+[~] Scoring: TOURBON Electrician Carpenter Tools Belt Pouch Contractor Framing Tool Bag US — $144.14
+  sold_avg=N/A
+  [LOW] score=22 | No sold price data available to confirm margin potential, and TOURBON is a mid-tier brand with moderate demand making resale spread unlikely at this price point.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/256357196959?_skw=contractor+tools&hash=item3bb014649f:g:brgAAOSw2qRoDKc3
+
+[~] Scoring: Michigan Industrial Tools 50-Pc Contractor Grade Project Tool Set Hammer Tape — $29.99
+  sold_avg=N/A
+  [LOW] score=32 | No sold price data available and Michigan Industrial Tools is a low-recognition brand with generic contractor tool sets that face heavy competition from Home Depot/Amazon at similar or lower price points, limiting resale margin.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/236835226306?_skw=contractor+tools&hash=item37247ac2c2:g:oIYAAeSwzJ1p3q3z&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaJROAv3GQVN8TCREqqTbaU8M4qj1mnobDWHmTP7loqhAXn8Oft61P2fJVnMHEvP3kQ0GwwPrEVoLoEVMTs8rWHVbOyEFyyFHHfUx4NQmZPyGyhJqx28NF6gzuASmq0fpmYc4nxfTay1mKXVFOShOFSHNAtl7ZSAxWEROBNU%2BJJm01zHA1t%2BEtFDnhvAhrbJlbctmIz%2Fg57iovRIDwEIg5dFlSjcj6ifoiD8GjFeRc8S0OKCeleOpSLNaI0LP0hqtum0OgEA1ufitzFW6nA5KLZHBjrTKFSY9%2B2EMQENy4Jqw%3D%3D
+
+  Scored 3 new listings for 'contractor tools'
+
+[*] Fetching eBay listings for: 'dewalt'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=dewalt&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'dewalt': N/A
+
+[~] Scoring: DEWALT 20V MAX XR 5 Ah Lithium Ion Battery Premium High Capacity (DCB205-2) — $69.99
+  sold_avg=N/A
+  [MID] score=62 | DEWALT DCB205-2 (2-pack 5Ah batteries) is a high-demand, fast-moving item with strong brand recognition; $69.99 is a competitive price but without sold_price_avg confirmation, margin is estimated at 15-25% based on typical market comps of $85-95 for this SKU.
+  sold_avg=$None | offer=$55.00 | https://www.ebay.com/itm/397983721626?_skw=dewalt&hash=item5ca9ada89a:g:Wb4AAeSwAaFqEryW
+
+[~] Scoring: DEWALT 20V MAX XR 5 Ah Lithium Ion Battery Premium High Capacity (DCB205-2) — $69.99
+  sold_avg=N/A
+  [MID] score=52 | DEWALT DCB205-2 is a high-demand, fast-moving SKU with strong brand recognition, but without sold_price_avg data, margin potential is uncertain — retail is ~$99-$119 for the 2-pack, suggesting mild upside at $69.99 if resold locally or bundled.
+  sold_avg=$None | offer=$55.00 | https://www.ebay.com/itm/358316326304?_skw=dewalt&hash=item536d513da0:g:YXEAAeSwAvJpshPA&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGan12jmUBcS0XL009ge54yb8wy52xtmiKUpxAHjY0PHXQQNm9oo7g5QebSGMg7l%2FN08wrUOE4jRrpzer5H1OnpFlMXljHiusUZZyAGMCNpTrVIZxzuwhTIFMwx%2FAYsquSqOt1X0mr%2F1h0UMsii49Bbb0i2Q2ALGSmpi7xY7SRYR4tUgP5xYXrqJEMzqQqFeaaxni8sdce3RJRghMFGVgoAcdokMDrGkPH2IyF3JngrqaL0HbNMlMa1gIVDHzUN6XJbrDRXIEs4TfsbkBvSD8hB7
+
+[~] Scoring: 2 PACK DeWALT DCB210-2 20V MAX XR 10.0 AH Lithium-Ion Battery Tool Batteries New — $159.99
+  sold_avg=N/A
+  [MID] score=62 | DeWALT 20V MAX XR 10Ah batteries are high-demand, fast-moving tools with strong brand recognition; at $80/battery for a 2-pack, there's moderate margin potential if sourced below typical retail (~$199-$229 retail), but without sold_price_avg data, upside is uncertain and requires market validation.
+  sold_avg=$None | offer=$129.99 | https://www.ebay.com/itm/297585121763?_skw=dewalt&hash=item45497499e3:g:fpoAAeSwGvhpUjqE&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaSv%2BH7YhlCbAEdLnDhcHFp1tEprR6T%2BV0C9T8pRzmXVCM9dOOT0cXT9iNGi9B2KT2KbbOQLx5W7eY%2B%2FEND9bLq1kvpaMduinHZDyI%2BuAWH%2FDQtfCPJCcRBsJ5tS0DQfF4eHWLuWNXxDKtEmLwvgylQ5r0z2lSp5sTmLTmQEp61epRXEbSRiugnEkItbeVco3zvQ5nP4t0cmwSB3dJ166ab1r7ZqnPTRrG1R6gbe38XyPkpmYIO6xDxPTJc6ecRJmK7y4V1jIOoAnWtpfpjCVXn
+
+[~] Scoring: 2 Pack DEWALT DCB205 20V Max XR 5.0Ah Lithium-Ion Battery New In Pack USA SELLER — $69.99
+  sold_avg=N/A
+  [HIGH] score=72 | DEWALT DCB205 5Ah batteries are high-demand, fast-moving SKUs with strong brand recognition — a 2-pack at $69.99 is well below typical retail ($129-$159) and comparable sold comps of $85-$110 for 2-packs, suggesting solid margin potential.
+  sold_avg=$None | offer=$55.00 | https://www.ebay.com/itm/389766167261?_skw=dewalt&hash=item5abfdfbadd:g:L5MAAeSwJdFpureP
+
+[~] Scoring: 2025 Date 2 Pack DEWALT DCB205-2 20V MAX Premium Lithium-Ion 5.0Ah Battery New — $69.99
+  sold_avg=N/A
+  [MID] score=52 | DEWALT DCB205-2 2-pack has strong brand recognition and consistent demand, but without sold_price_avg data, margin potential is uncertain — retail for this 2-pack typically runs $99-$129, suggesting moderate flip potential at $69.99 if authentic.
+  sold_avg=$None | offer=$55.00 | https://www.ebay.com/itm/406918534358?_skw=dewalt&hash=item5ebe3c14d6:g:xqAAAeSwXSNqAVss
+
+  Scored 5 new listings for 'dewalt'
+
+[*] Fetching eBay listings for: 'makita'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=makita&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'makita': N/A
+
+[~] Scoring: 2 NEW Makita BL1860B-2 18V LXT Lithium-Ion 6.0 Ah Battery - USA SHIP — $89.99
+  sold_avg=N/A
+  [MID] score=62 | Makita BL1860B-2 two-pack typically retails $120-160 new, and $89.99 for two genuine 6Ah batteries is below market if authentic, offering solid resale margin especially given Makita's strong brand demand and fast resale velocity.
+  sold_avg=$None | offer=$75.00 | https://www.ebay.com/itm/236846078247?_skw=makita&hash=item3725205927:g:K24AAeSwu7FqGlyK
+
+[~] Scoring: Lot of 2 Compatible With Makita 18V 6.0AH Li-Ion Battery BL1840 BL1850 BL1860 — $25.49
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available and these are compatible (third-party) batteries, not genuine Makita, which significantly limits resale demand and margin potential compared to OEM units.
+  sold_avg=$None | offer=18.00 | https://www.ebay.com/itm/127420387170?_skw=makita&hash=item1daad8cf62:g:rAsAAeSwT1ho5tK3
+
+[~] Scoring: MAKITA XDT18ZB 18V LXT Lith-Ion Sub‑Compact Brushless Cordless Impact Driver. — $79.65
+  sold_avg=N/A
+  [MID] score=62 | Makita is a strong resale brand and the XDT18ZB sub-compact impact driver typically sells in the $90-120 range as a bare tool, suggesting moderate margin potential at $79.65 despite no confirmed sold data.
+  sold_avg=$None | offer=$65.00 | https://www.ebay.com/itm/406312816314?_skw=makita&hash=item5e9a218eba:g:FFgAAeSw-XRo-Qmz
+
+  Scored 3 new listings for 'makita'
+
+[*] Fetching eBay listings for: 'milwaukee tool'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=milwaukee+tool&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'milwaukee tool': N/A
+
+[~] Scoring: NEW MILWAUKEE 2562-20 M12 FUEL 12V 3/8" Stubby Impact Wrench - Bare Tool — $170.0
+  sold_avg=N/A
+  [MID] score=52 | Milwaukee M12 FUEL is a high-demand, fast-moving brand with strong resale velocity, but without sold_price_avg data the margin opportunity is uncertain — new/sealed units typically sell $150-$190 retail, leaving thin arbitrage room at $170.
+  sold_avg=$None | offer=$140 | https://www.ebay.com/itm/357556185232?_skw=milwaukee+tool&hash=item5340026890:g:cMcAAeSwhvRocJ7t
+
+[~] Scoring: Milwaukee 2401-20 M12 12-Volt Lithium-Ion Cordless 1/4 in. Hex Screwdriver (Tool — $120.0
+  sold_avg=N/A
+  [LOW] score=32 | No sold price data available and $120 is at or above typical market value for this bare-tool M12 screwdriver, which commonly sells for $80-$110 used, leaving little to no resale margin.
+  sold_avg=$None | offer=$65 | https://www.ebay.com/itm/267687512565?_skw=milwaukee+tool&hash=item3e536b49f5:g:TN0AAeSwGgVqDJbp&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZ%2B%2Fvrj4P0fsGDhX5pDlg%2BgHq1DC%2FbOZ9wEbtV3mQF1mRoLyL1H0pSUQwlk%2BQCXs86jfCv%2FtNxlsd7yge2L3HizjNq%2BwwgWEvnhglnz%2BiA2Y3Qg1CUhpXHz60tQz6tufn2HwZy5Y3HTKEaql6IVkA6rAm32JwrnFuvVCnIxcPthVPOaFvcVRvQlCrXqhzQm2gDN3M5%2Bn%2BJOIK8KNTW9mZ7NEJfQF18bxNHZ0XKOt5h7d%2B9dGn0YWcYl78oOqqtDm4v9MCq2KHcZfc8uHz9%2Bc7uLBu8PuoyfbY170mWd8QTXaQ%3D%3D
+
+[~] Scoring: Milwaukee 3453-20 M12 Fuel 1/4" Hex Impact Driver 12 Volt GEN 3 — $85.99
+  sold_avg=N/A
+  [MID] score=62 | Milwaukee M12 Fuel Impact Driver is a high-demand, fast-moving SKU with strong brand recognition; no sold_price_avg available but $85.99 for a bare tool Gen 3 unit is moderately priced with likely $110-130 resale upside depending on condition.
+  sold_avg=$None | offer=$70.00 | https://www.ebay.com/itm/364042022434?_skw=milwaukee+tool&hash=item54c2986e22:g:FF4AAeSwToxogk91
+
+[~] Scoring: Milwaukee 2855-20 M18 FUEL 1/2" Compact Impact Wrench w/ Friction Ring Bare Tool — $188.99
+  sold_avg=N/A
+  [MID] score=62 | Milwaukee M18 FUEL tools have strong brand recognition and consistent resale demand, but without sold_price_avg data, margin potential is uncertain — market comps suggest this model typically sells $200-$240 used, indicating modest upside at $188.99.
+  sold_avg=$None | offer=$155.00 | https://www.ebay.com/itm/365231669722?_skw=milwaukee+tool&hash=item55098101da:g:ha0AAeSwIvxolLNc
+
+[~] Scoring: Milwaukee 2833-20 M18 FUEL 6-1/2" Cordless Brushless Circular Saw /TOOL ONLY — $153.99
+  sold_avg=N/A
+  [MID] score=62 | Milwaukee M18 FUEL is a high-demand, fast-moving brand with strong resale velocity, but without sold_price_avg data, margin confidence is moderate — market comps suggest $180-210 range for this model, implying potential upside at $153.99.
+  sold_avg=$None | offer=$130.00 | https://www.ebay.com/itm/365066462637?_skw=milwaukee+tool&hash=item54ffa825ad:g:fWsAAeSwYodolOnf
+
+[~] Scoring: Milwaukee 2836-20 M18 FUEL 18V Li-Ion Cordless Brushless Oscillating Multi-Tool — $173.99
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but Milwaukee M18 FUEL multi-tools typically retail $149-$179 (tool-only), making $173.99 near or at market ceiling with limited flip upside.
+  sold_avg=$None | offer=$130.00 | https://www.ebay.com/itm/364525047604?_skw=milwaukee+tool&hash=item54df62cf34:g:m4AAAeSwFINowzVE&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGav6HA8%2FiIG%2BRCjzeDQYfh2gPweK1nksWg0jgLMO5gAJu0AYHzK5xvdjozeaRTKVvVGyEXE%2BX8jRdmviCRwkImynNm6PXDKZ5YwjG658xLaBp1juDeqv%2Ffzp5C3XU5HPmukGVus0FE8g3aXLw%2BOq5RBaDcReSnE1WuKv05adBM7YTcz0ZsM%2F5iJPOybcu55IJMDksJKaLL7bFyak8lZjftAiuHCsFopeVwEeWMnyKKahel8xtSBWcS5O%2BjJqXdrp%2Fq6KVzCyhHKPFXYK2lylSS9gx3GACCE3bayIns3Y4hltA%3D%3D
+
+  Scored 6 new listings for 'milwaukee tool'
+
+==================================================
+High-value alerts this run: 1
+==================================================
+
+Email alert sent -> diowaj@gmail.com (1 listings)
+
+==================================================
+eBay Agent | keywords=['contractor tools', 'dewalt', 'makita', 'milwaukee tool']
+Price range: $20-$600
+==================================================
+
+
+[*] Fetching eBay listings for: 'contractor tools'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=contractor+tools&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'contractor tools': N/A
+
+[~] Scoring: Milwaukee 50-55-3550 Contractor Bag 6 Inside Pockets — $23.17
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but Milwaukee is a strong brand with steady demand; current price is reasonable but resale upside is unclear without comps.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/266990504177?_skw=contractor+tools&hash=item3e29dfc8f1:g:hrkAAOSwR8hm5doZ
+
+  Scored 1 new listings for 'contractor tools'
+
+[*] Fetching eBay listings for: 'dewalt'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=dewalt&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'dewalt': N/A
+
+[~] Scoring: 2 Packs New DEWALT DCB205 20V Max XR 5.0Ah Lithium-Ion Battery for Tools US — $69.99
+  sold_avg=N/A
+  [MID] score=52 | DEWALT DCB205 5Ah batteries have strong brand demand and resale velocity, but without sold_price_avg data, margin potential is uncertain — retail for a 2-pack typically runs $99-$129, suggesting moderate upside at $69.99 if authentic.
+  sold_avg=$None | offer=$55.00 | https://www.ebay.com/itm/318151530578?_skw=dewalt&hash=item4a134f1852:g:2QsAAeSwPXpp3u4V
+
+[~] Scoring: New Dewalt DCB203 20V Max  Battery 2.0Ah Lithium Ion Li-Ion 20 Volt Date 2025 — $28.95
+  sold_avg=N/A
+  [MID] score=52 | DeWalt is a high-demand brand with strong resale velocity, but without sold_price_avg data, margin potential is uncertain; DCB203 2.0Ah batteries typically sell used for $20-35 and new for $35-50, making $28.95 a modest but not exceptional opportunity.
+  sold_avg=$None | offer=$22.00 | https://www.ebay.com/itm/365891800668?_skw=dewalt&hash=item5530d9ce5c:g:eXEAAeSwDwpo2p2x
+
+  Scored 2 new listings for 'dewalt'
+
+[*] Fetching eBay listings for: 'makita'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=makita&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'makita': N/A
+
+[~] Scoring: Makita DTW285 18V Cordless Brushless Tool Only Impact Wrench — $122.0
+  sold_avg=N/A
+  [MID] score=52 | Makita DTW285 is a reputable mid-tier impact wrench with solid resale demand, but without sold_price_avg data the margin opportunity is uncertain — $122 is competitive but requires manual comp verification before committing.
+  sold_avg=$None | offer=$95 | https://www.ebay.com/itm/358629556737?_skw=makita&hash=item537ffcc201:g:j44AAeSw37xqHtP3&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaKenx2QFL3%2FcW%2FPZUVlTfas6riUPefoiO3DmDUqXohBAtEp3%2BE%2ByKGkPOy0o8rQIw99uCWObOPN%2Fmowmo39TNXLcYTOCfNOeRkkw6dMP2m9YsjZgzWMFxl%2FCUBRHezP1pUS0KyFMSfQbEISbaNXd1MLVDfDZMEn%2B4V9V%2FdInrHK%2FwjwsIzdMMgCs1Ssdo3fsFwWwjcp1fJTj5i3K%2FmYf5GRqt2%2FiHAUHD%2F1kIf%2FWIsfDOw9FVPysmMytkWhhC6LSkVGq11Rn%2BVZ4mZgIjxYpyY
+
+[~] Scoring: Makita XDT14Z-R 18V LXT Quick-Shift 3-Speed Impact Driver Certified Refurbished — $115.76
+  sold_avg=N/A
+  [MID] score=52 | Makita is a strong, in-demand brand with good resale velocity, but without sold_price_avg data the margin opportunity is uncertain; refurbished status may limit upside compared to new units.
+  sold_avg=$None | offer=$90.00 | https://www.ebay.com/itm/397125460691?_skw=makita&hash=item5c7685a2d3:g:1-0AAeSw-LBqGhG6
+
+  Scored 2 new listings for 'makita'
+
+[*] Fetching eBay listings for: 'milwaukee tool'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=milwaukee+tool&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'milwaukee tool': N/A
+
+[~] Scoring: Milwaukee 3697-27 M18 FUEL 18V 7 Tool Cordless Lithium-Ion Combo Kit — $78.43
+  sold_avg=N/A
+  [HIGH] score=72 | Milwaukee M18 FUEL 7-tool combo kits typically sell for $300-500+ on the secondary market, making $78.43 an exceptionally strong buy if listing condition and completeness are verified.
+  sold_avg=$None | offer=$65.00 | https://www.ebay.com/itm/366449778042?_skw=milwaukee+tool&hash=item55521bdd7a:g:XzAAAeSwQh9qHoCu
+
+[~] Scoring: Milwaukee 3601-20 M18 Brushless 1/2" Drill/ Driver**Tool Only*** — $68.99
+  sold_avg=N/A
+  [MID] score=62 | Milwaukee M18 brushless drill is a recognized brand with consistent resale demand, and at $68.99 tool-only the price sits near market average based on typical M18 brushless sold comps (~$65-85), offering modest but real margin if sourced closer to $50.
+  sold_avg=$None | offer=$52.00 | https://www.ebay.com/itm/306924175308?_skw=milwaukee+tool&hash=item47761b3fcc:g:J90AAOSwKxtnr70Y
+
+[~] Scoring: Milwaukee Tool 2545-20 M12 Fuel Jig Saw Tool Only — $149.0
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but Milwaukee M12 Fuel Jig Saw (2545-20) typically sells $130-$160 new/used, making $149 a thin or break-even proposition with limited upside after fees.
+  sold_avg=$None | offer=$110 | https://www.ebay.com/itm/336099107354?_skw=milwaukee+tool&hash=item4e4111621a:g:YpkAAeSwSCJqGveb&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbYwgYYpaq3PF2NzG7OmUaisZUT4fAuTGuxsGXpAoPRLCP7BZhiTTI9iCz8LLtPEHp4uLDcx35dgP2%2FaQN98%2Biv9zOZ7ZYp2xonzUWHT3JbmWvkiFt5ErP4DpfNrrVk%2BVr3yfxlUZ0HTy0xcGiF5prSaZWUIrC0vBbk9PGL9D1dSO0ZEpUnfZe4dWNVJmmqn4KML0PVCPSeBnP4yhblEqfbj%2FfyFK4pEOxiZOkbb40xRzovQRn4b8hKJcmsiW2u0I6thbO2x02wkcSh3x%2BSHqF3sMaj1fXp82dtl6rLYOpOHg%3D%3D
+
+  Scored 3 new listings for 'milwaukee tool'
+
+==================================================
+High-value alerts this run: 1
+==================================================
+
+Email alert sent -> diowaj@gmail.com (1 listings)
+
+==================================================
+eBay Agent | keywords=['contractor tools', 'dewalt', 'makita', 'milwaukee tool']
+Price range: $20-$600
+==================================================
+
+
+[*] Fetching eBay listings for: 'contractor tools'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=contractor+tools&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'contractor tools': N/A
+
+[~] Scoring: Ryobi Green Wide Mouth Collapsible Genuine OEM Contractor’s Bag 18" — $13.75
+  sold_avg=N/A
+  [LOW] score=22 | No sold price data available and this is a low-value OEM accessory bag with minimal resale margin at $13.75 given shipping costs and eBay fees.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/397687118027?_skw=contractor+tools&hash=item5c97ffd8cb:g:0jYAAeSwwXdprKAr
+
+[~] Scoring: WOLF WTB300 Heavy-Duty Tool Belt with Pouch for Contractors & Electricians — $93.99
+  sold_avg=N/A
+  [LOW] score=38 | No sold price data available to confirm margin potential, and at $93.99 WOLF is a mid-tier brand with moderate contractor tool demand making resale spread uncertain.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/146325715626?_skw=contractor+tools&hash=item2211b13aaa:g:CFsAAOSwTbRnggMM&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbFc8SFbI9%2FQYe%2FOV81EV0zljsH3tZmTYAkgIqUdGyHAQhNLMQgr8S%2Byu3CuSVnbSIKYAPlRe1CtrQPBaeEgJC7B46sN9PSetGNXNqf%2FR4Q6ZJK5RHwv6UvtTga9dFgVIY3PFbe27wKxWMBHeMZgpn8u2y1%2B2xSwHu4NkXYg0f7p1WCpxsiYcHzACnKFvhNMDPLWskvKKNKtIUWwmD4jcibO0xZFbb5VpPiQFbVfjvqulTnwNe%2B9CXKPhPHWafWL70zTxQmeQ2IrFtsI2TA5truFVSHSVkJIlT7Kw4Ejwt5xg%3D%3D
+
+[~] Scoring: RYOBI X-Large Wide Mouth Contractor’s Storage Bag for Tool Kits, 903211004 — $14.99
+  sold_avg=N/A
+  [LOW] score=32 | No sold price data available and at $14.99 this RYOBI storage bag has low margin potential as a commodity accessory item with thin resale spreads.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/177474173690?_skw=contractor+tools&hash=item295248fafa:g:WyQAAeSwagVowXkn
+
+  Scored 3 new listings for 'contractor tools'
+
+[*] Fetching eBay listings for: 'dewalt'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=dewalt&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'dewalt': N/A
+
+[~] Scoring: DEWALT DCF887 20V MAX XR Brushless Impact Driver 1/4" Cordless Tool Only EU Plug — $45.0
+  sold_avg=N/A
+  [LOW] score=32 | No sold price data available to confirm margin, and the EU plug variant significantly limits US resale demand and buyer pool.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/406969032724?_skw=dewalt&hash=item5ec13ea014:g:NDQAAeSwj3lqHv9L&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGZHdj777WsVV9yNJ8yxHcdEBz3sBVzmXHyC%2BtofctbM7aWiaRxfepSHywMsDPCKxdOSSXc5KjnhyBmIPifkzxUxvsKlpaxHpjIhXvKLRrIPnl7ax9d1DjbfC8zZ0MDIjY%2BF0w0KVzhRCEdMkdQSCEI9K%2FHcCrjTlPOk70WssJdMUHQP%2BO9Zr1UuxkaHQDXkZBT%2FFa5uiarzyghO--uDwC%2FBgdYGQUG6i8Jk8bxHowJzBRdAqoEazjLlhGESErkdUmqleROwdgMtK20ldE1Dg292
+
+[~] Scoring: DeWALT DCB606 FlexVolt 6.0Ah Battery - 20V/60V MAX Li-Ion 2025 Model New Package — $89.98
+  sold_avg=N/A
+  [MID] score=52 | No sold_price_avg available, but DeWalt FlexVolt 6Ah batteries are high-demand with strong brand recognition; $89.98 is near typical market rate (~$85-100) leaving thin but possible margin if sourced below $75.
+  sold_avg=$None | offer=$72.00 | https://www.ebay.com/itm/306864852179?_skw=dewalt&hash=item4772920cd3:g:fx0AAeSwTP1p05FB
+
+[~] Scoring: DEWALT 20V MAX XR Brushless Reciprocating Saw DCS382B Yellow/Black — $106.21
+  sold_avg=N/A
+  [MID] score=62 | DEWALT is a high-demand brand with strong resale velocity, but without sold_price_avg data, margin potential is uncertain — comparable DCS382B units typically sell $120-$150 new/used, suggesting modest upside at $106 if condition is solid.
+  sold_avg=$None | offer=$85.00 | https://www.ebay.com/itm/406914518288?_skw=dewalt&hash=item5ebdfecd10:g:vpkAAeSweUZp~qiM
+
+[~] Scoring: 2Pack 9.0Ah for DeWalt FLEXVOLT 20V/60V MAX Battery Lithium-ion DCB609 /Charger — $99.0
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but DeWalt FLEXVOLT batteries have strong brand demand though this appears to be a third-party/aftermarket pack, limiting resale premium over retail.
+  sold_avg=$None | offer=$70.00 | https://www.ebay.com/itm/316518344669?_skw=dewalt&hash=item49b1f6a7dd:g:92AAAOSw9kxn2mZ3
+
+[~] Scoring: Pack 12.0AH For DeWalt 20V 20 Volt Max XR Lithium Ion Battery DCB206-2 DCB205-2 — $80.0
+  sold_avg=N/A
+  [MID] score=45 | DeWalt 20V batteries have strong brand demand and resale velocity, but without sold price data and at $80 for a likely third-party/aftermarket pack, margin potential is uncertain and competitive.
+  sold_avg=$None | offer=$55 | https://www.ebay.com/itm/306672219646?_skw=dewalt&hash=item476716b5fe:g:akEAAeSwPq9pSj2f
+
+[~] Scoring: DEWALT DCB609 20V/60V MAX FLEXVOLT 9.0Ah Lithium-Ion Battery Tool Batteries New — $129.96
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but DEWALT FLEXVOLT 9Ah batteries retail around $149-179 new, leaving limited but possible ~15-25% resale margin at $129.96 depending on platform fees.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/366401371313?_skw=dewalt&hash=item554f393cb1:g:9GUAAeSweFVqAWAy&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGbg%2Fz8w3IsjGST9yzIqa%2FS6B%2BX0yqhxc37sjI251CF5JajoFUPYxkPEakdOcD6A13GNGPCXvXb9S6kQyjvfWixKf7Igr%2FNNdGhqKnUl1cZknX2BPo%2BdQAw2WE30dlAxpKk%2B2iEvlGdzCAtVjDas37IXxp1%2FgteX1%2B8RFuSWtyGvV%2FZF9M5qRVSRhRSLoDfDsIKGXg7Ox6C%2BmuY109wEU8qhu%2FiWuUiVAOSEIvomCWIyq4Jhks4N5zIswUmloXvUZ9lC%2BuA109r7BElVCUqnKYc2
+
+  Scored 6 new listings for 'dewalt'
+
+[*] Fetching eBay listings for: 'makita'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=makita&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'makita': N/A
+
+[~] Scoring: Makita LXT 18V 1/2" Lithium‑Ion Cordless Driver‑Drill (Tool Only) - XFD10Z NEW — $59.0
+  sold_avg=N/A
+  [MID] score=62 | Makita is a strong recognized brand with consistent resale demand; XFD10Z tool-only units typically sell $75-95 on eBay, suggesting a solid ~25-40% margin at $59 with no sold data to confirm.
+  sold_avg=$None | offer=$45 | https://www.ebay.com/itm/306885930347?_skw=makita&hash=item4773d3ad6b:g:bXwAAeSwnwJpY~r4
+
+[~] Scoring: Makita XDT14Z-R 18V LXT Quick-Shift 3-Speed Impact Driver Certified Refurbished — $115.42
+  sold_avg=N/A
+  [MID] score=52 | Makita is a strong, in-demand brand with good resale velocity, but without sold_price_avg data, margin potential is uncertain — certified refurbished units typically sell $130-160 new/refurb, leaving modest but not exceptional flip margin at $115.
+  sold_avg=$None | offer=$95.00 | https://www.ebay.com/itm/397125460691?_skw=makita&hash=item5c7685a2d3:g:BTYAAeSwi0lqHw6b
+
+  Scored 2 new listings for 'makita'
+
+[*] Fetching eBay listings for: 'milwaukee tool'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=milwaukee+tool&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=25&sortOrder=EndTimeSoonest
+  Sold comps for 'milwaukee tool': N/A
+
+[~] Scoring: Milwaukee M18 2648-20 18V Li-Ion 5in Random Orbit Orbital Sander Tool Only — $104.99
+  sold_avg=N/A
+  [MID] score=42 | Without sold_price_avg data, margin potential is uncertain; Milwaukee M18 sanders are reputable but $104.99 for a tool-only unit may leave limited resale upside after fees.
+  sold_avg=$None | offer=$80.00 | https://www.ebay.com/itm/227369928843?_skw=milwaukee+tool&hash=item34f04dc88b:g:BTQAAeSwS0lqH1qN&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZcYc8WSRTgcldE%2BL7TNLtVxudfPQk3LzhiHqL99tTUcFqzCvFZJPPGVUvGZOL3LK8WyD5eGqZ8PgW64nvqN6m7E%2F0Ph9D93OQ%2BZLocYRZ90zMOhcKrjglrXpzmr49kM5pCHg9r7rzh1wNbmqOO7XXc91EfcA6Iy%2BEvDerTYVYGtbAkOgdbDhshqzt%2B0nzpXOYrjpc0jKeOYa%2FTk5JwoGuvzikWuYDiU7RH2JWItQYnJQUUuVazfowJyGNCDtkXHFNpCeV7E4WyeolFGSte8C9ah%2FBJcNCTKy5EwzBIGdPS%2Bw%3D%3D
+
+[~] Scoring: Milwaukee 2833-20 M18 FUEL 6-1/2" Cordless Brushless Circular Saw /TOOL ONLY — $153.99
+  sold_avg=N/A
+  [MID] score=62 | Milwaukee M18 FUEL is a high-demand, fast-moving tool with strong brand recognition, but without sold_price_avg data, margin potential is estimated based on typical street pricing around $179-$199 for this model, suggesting moderate upside at $153.99.
+  sold_avg=$None | offer=$130.00 | https://www.ebay.com/itm/365066462637?_skw=milwaukee+tool&hash=item54ffa825ad:g:fWsAAeSwYodolOnf
+
+  Scored 2 new listings for 'milwaukee tool'
+
+==================================================
+High-value alerts this run: 0
+==================================================
+
+
+==================================================
+eBay Agent | keywords=['contractor tools', 'dewalt', 'makita', 'milwaukee tool']
+Price range: $20-$600
+==================================================
+
+
+[*] Fetching eBay listings for: 'contractor tools'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=contractor+tools&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=10&sortOrder=EndTimeSoonest
+  Sold comps for 'contractor tools': N/A
+
+[~] Scoring: 1) Dewalt Tool Bag Case 15" x 10 x 9 Canvas For 20V Drill, Battery, Pocket Rails — $17.97
+  sold_avg=N/A
+  [LOW] score=32 | No sold price data available and at $17.97 this is a low-cost accessory item with thin margins after eBay fees and shipping, limiting meaningful resale upside.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/397162319150?_skw=contractor+tools&hash=item5c78b80d2e:g:oz8AAOSwZ0RmnGuj
+
+  Scored 1 new listings for 'contractor tools'
+
+[*] Fetching eBay listings for: 'dewalt'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=dewalt&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=10&sortOrder=EndTimeSoonest
+  Sold comps for 'dewalt': N/A
+
+[~] Scoring: DEWALT 20V MAX XR 5 Ah Lithium Ion Battery Premium High Capacity (DCB205-2) — $69.99
+  sold_avg=N/A
+  [MID] score=52 | DEWALT DCB205-2 is a high-demand, fast-moving SKU with strong brand recognition, but without sold_price_avg data, margin potential is uncertain — $69.99 for a 2-pack of 5Ah batteries is near or below typical retail street price (~$99-$129 retail), suggesting limited but possible upside if resold locally or bundled.
+  sold_avg=$None | offer=$55.00 | https://www.ebay.com/itm/358316326304?_skw=dewalt&hash=item536d513da0:g:YXEAAeSwAvJpshPA&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGan12jmUBcS0XL009ge54yb8wy52xtmiKUpxAHjY0PHXQQNm9oo7g5QebSGMg7l%2FN08wrUOE4jRrpzer5H1OnpFlMXljHiusUZZyAGMCNpTrVIZxzuwhTIFMwx%2FAYsquSphDWp62UdXLQKBkeCAvzseGteE%2FkPhRfyXq32h0Bl52fMTswmYnGVJAAZw%2BLD0qlx4uWCyGO9j4bzZwRfei%2FT6oDuOYHtFwVz0nGb82kmZs4guVAcog27zcgaQsc3xGU31tXJt%2BxWyerSy7ViPK40T
+
+[~] Scoring: 2 PACK DeWALT DCB210-2 20V MAX XR 10.0 AH Lithium-Ion Battery Tool Batteries New — $159.99
+  sold_avg=N/A
+  [MID] score=52 | No sold price data available, but DeWalt 20V MAX XR 10Ah batteries are high-demand items — retail for ~$199-$229/pack, making $159.99 for a 2-pack potentially thin on margin after fees unless resold as singles or bundled strategically.
+  sold_avg=$None | offer=$130.00 | https://www.ebay.com/itm/297585121763?_skw=dewalt&hash=item45497499e3:g:fpoAAeSwGvhpUjqE&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaSv%2BH7YhlCbAEdLnDhcHFp1tEprR6T%2BV0C9T8pRzmXVCM9dOOT0cXT9iNGi9B2KT2KbbOQLx5W7eY%2B%2FEND9bLq1kvpaMduinHZDyI%2BuAWH%2FDQtfCPJCcRBsJ5tS0DQfF7b%2BS9NW1yLq1wLnsrufVTI4jtdVIJSmENclL5Xrj69D%2BO4QPZtrOoHtVKieKHUvnJVDoZBk%2BJFvPeDo%2Bz1BCBpb8hxpkCpwEXWX2uqS0vExoUieoMXM%2FB68MDBnMcteOye8wbEwos2u8eNghKRwxjr
+
+[~] Scoring: Dewalt DCB612 20V/60V FlexVolt Lithium-Ion 12.0Ah Battery Power Tool Batteries — $145.99
+  sold_avg=N/A
+  [MID] score=62 | DeWalt FlexVolt 12Ah batteries are high-demand, fast-moving items with strong brand recognition, but without sold_price_avg data, margin confidence is moderate — market comps typically show these selling $160-$185 used/refurb, suggesting mild upside at $145.99.
+  sold_avg=$None | offer=$120.00 | https://www.ebay.com/itm/168365594625?_skw=dewalt&hash=item27335f1801:g:jIcAAeSwQdhqAE3h
+
+[~] Scoring: 2 Packs New DEWALT DCB205 20V Max XR 5.0Ah Lithium-Ion Battery for Tools US — $69.99
+  sold_avg=N/A
+  [MID] score=45 | No sold price data available to confirm margin, but DEWALT DCB205 2-pack at $69.99 is near or below typical retail floor, limiting clear arbitrage spread without further market validation.
+  sold_avg=$None | offer=$55.00 | https://www.ebay.com/itm/318151530578?_skw=dewalt&hash=item4a134f1852:g:2QsAAeSwPXpp3u4V
+
+[~] Scoring: DeWALT DCB606 FlexVolt 6.0Ah Battery - 20V/60V MAX Li-Ion 2025 Model New Package — $88.98
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but DeWalt FlexVolt 6Ah batteries typically retail $99-$129 new, leaving modest resale upside at $88.98 only if sourced below ~$65-70.
+  sold_avg=$None | offer=$70.00 | https://www.ebay.com/itm/318274621897?_skw=dewalt&hash=item4a1aa551c9:g:5BkAAeSwnxZp~vWf
+
+  Scored 5 new listings for 'dewalt'
+
+[*] Fetching eBay listings for: 'makita'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=makita&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=10&sortOrder=EndTimeSoonest
+  Sold comps for 'makita': N/A
+
+[~] Scoring: 2 x Makita BL1860B-2 18V LXT Lithium-Ion 6.0 Ah Battery - New - USA SHIP — $79.89
+  sold_avg=N/A
+  [HIGH] score=72 | Makita BL1860B 6.0Ah batteries are high-demand, fast-moving items with strong brand recognition — two-pack at $79.89 is well below typical retail ($120-160 for a 2-pack) suggesting solid resale margin if authentic.
+  sold_avg=$None | offer=$65.00 | https://www.ebay.com/itm/389985542692?_skw=makita&hash=item5accf32224:g:8C4AAeSwI-lp-9mh
+
+[~] Scoring: New Makita 18V XDT19 Brushless Cordless 1/4" Impact 4 Speed 18 Volt Quick Shift — $125.04
+  sold_avg=N/A
+  [MID] score=62 | Makita XDT19 is a well-regarded brushless impact driver with strong brand demand, and at $125 tool-only it sits near but slightly below typical market range of $130-150 for this model, offering modest flip potential.
+  sold_avg=$None | offer=$100 | https://www.ebay.com/itm/204035873800?_skw=makita&hash=item2f817c5c08:g:vdMAAeSwDIVqGJCf
+
+  Scored 2 new listings for 'makita'
+
+[*] Fetching eBay listings for: 'milwaukee tool'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=milwaukee+tool&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=10&sortOrder=EndTimeSoonest
+  Sold comps for 'milwaukee tool': N/A
+
+[~] Scoring: Milwaukee Tool 3670-20 M18 Fuel 4-1/2"-6" Braking Grinder, Paddle Switch — $229.0
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but Milwaukee M18 FUEL grinders retail ~$229-$249 new, leaving minimal resale spread at current asking price.
+  sold_avg=$None | offer=$160 | https://www.ebay.com/itm/227158313178?_skw=milwaukee+tool&hash=item34e3b0c8da:g:gqEAAeSwGgVp~K1U&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYgFgBIkFETlx31kix8jDU9M%2BbbxYrV42A4LrQSPrKbaTU8cqFNcevkUvwDiK12wN%2BPJyO5Afl0Ls0p%2FWQUhB%2BDI%2BhflXt05%2BjXXm5pPbyR3ZsYUM2%2BicrjvZZJ%2F3F0O%2BjR%2BfE9249gGl5VCYdM%2BiTPe9HEld0Sef%2F8bl3jIO54ser4zwSxi2G7KuTp2fLSH%2Fgygx%2FAN5cK6QRc38qy0cWSuNY%2Bzj8QSCR4FPmO1XYxwWA5QzfpFTrLDVhHcKAEDXufEQUxm4J43yv15VGv%2BCcIVgvbpjHJM35WNt6hWvcqNA%3D%3D
+
+[~] Scoring: Milwaukee 3453-20 M12 Fuel 1/4" Hex Impact Driver 12 Volt GEN 3 — $85.99
+  sold_avg=N/A
+  [MID] score=62 | Milwaukee M12 Fuel Gen 3 impact drivers are high-demand tools with strong resale velocity, typically selling $90-130 used on eBay, suggesting moderate margin potential at $85.99 without confirmed sold data.
+  sold_avg=$None | offer=$70.00 | https://www.ebay.com/itm/364042022434?_skw=milwaukee+tool&hash=item54c2986e22:g:FF4AAeSwToxogk91
+
+[~] Scoring: New For Milwaukee M18 Battery18V Cordless Reciprocating Saw - Bare Tool — $16.99
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available, but Milwaukee M18 brand recognition is strong; however, at $16.99 for a bare reciprocating saw, quality and authenticity are suspect — likely a third-party or counterfeit product given Milwaukee's genuine bare tools retail for $100+.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/357972326945?_skw=milwaukee+tool&hash=item5358d03a21:g:ydwAAeSw7QJpgHZb
+
+[~] Scoring: Milwaukee PACKOUT Multi-Depth 3-Drawer Tool Box - Red (48-22-8447) — $129.0
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available, but Milwaukee PACKOUT 3-Drawer (48-22-8447) retails around $149-$179 at Home Depot/Amazon, making $129 near retail with limited arbitrage margin after eBay fees (~13%) and shipping.
+  sold_avg=$None | offer=$95 | https://www.ebay.com/itm/406964316560?_skw=milwaukee+tool&hash=item5ec0f6a990:g:M0UAAeSwn7VqHHY8&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZf06EUKp6lJzysG30vrvZJWmRvrmLBCnPXCLj1cPGaS3UamewDbRAG0%2FQ5D1f4LYSbkLDHcjDWzB7%2Bf9wfvrAZ6Pw88dD0uReedazjyF9MRJ7kccNmTZSQJrFrDOkyDVHn8Mg5UgMhRSqFvMAZ3sGRoKo%2FB%2BR5AwVn8SyHIkqSggtXLy3MU7YqVoc%2BiH5hkeSvsLGIJGnFpVu7hpvyg0aWng%2FzCKnrzoQPmmGLaLb0dmYyzAdqzxdMitmpU31dWacAZZD7B1cKtKRskxIHpKuTiTfH1Nty0E401%2BwQLg7Bmw%3D%3D
+
+  Scored 4 new listings for 'milwaukee tool'
+
+==================================================
+High-value alerts this run: 1
+==================================================
+
+Email alert sent -> diowaj@gmail.com (1 listings)
+
+==================================================
+eBay Agent | keywords=['contractor tools', 'dewalt', 'makita', 'milwaukee tool']
+Price range: $20-$600
+==================================================
+
+
+[*] Fetching eBay listings for: 'contractor tools'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=contractor+tools&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=10&sortOrder=EndTimeSoonest
+  Sold comps for 'contractor tools': N/A
+
+[~] Scoring: Bosch L-BOXX Contractor Tool Backpack Black Max Load 20kg  — $129.0
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but Bosch L-BOXX backpacks typically retail $120-$160 new, leaving minimal arbitrage upside at $129 without a clear discount from market.
+  sold_avg=$None | offer=$95 | https://www.ebay.com/itm/168376513313?_skw=contractor+tools&hash=item273405b321:g:dW0AAeSwto1qBqMN&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaaLXJd4TUEF0oyA95FDoqmjcO2Y5ift9kPjBIBQ52H9poV5PoCfGN%2F2QQW3ZixVCOwrt5rsgRx%2Fs7wrIPZEOLn6EE1%2FTbk2zuvRVviin9a%2BCnT17%2FL3gBE2MuFrNT8yh2rhWvbHQJqK0sMf6la7TelGP7%2Fm0Kmj72oBn0Q%2F21f2SJkMrLe8My08L6dF5v5VxIDJn8z%2F9hB9yOn4c8EKT4mrt9g7INnpKmmLBj8%2FBbqRhNuulRRT3GoknMhD5TypJ%2B%2Fu48i847SWJjnWTzohjOLFMBVRuFj0nucNQwOnbq1UQ%3D%3D
+
+  Scored 1 new listings for 'contractor tools'
+
+[*] Fetching eBay listings for: 'dewalt'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=dewalt&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=10&sortOrder=EndTimeSoonest
+  Sold comps for 'dewalt': N/A
+
+  Scored 0 new listings for 'dewalt'
+
+[*] Fetching eBay listings for: 'makita'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=makita&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=10&sortOrder=EndTimeSoonest
+  Sold comps for 'makita': N/A
+
+[~] Scoring: 2 NEW Makita BL1860B-2 18V LXT Lithium-Ion 6.0 Ah Battery - USA SHIP — $79.88
+  sold_avg=N/A
+  [MID] score=62 | Makita BL1860B-2 two-pack is a high-demand, brand-recognized item; at $79.88 with no sold_price_avg available, market comps suggest these 2-packs sell for $100-$120 on eBay, implying a moderate margin opportunity after fees.
+  sold_avg=$None | offer=$65.00 | https://www.ebay.com/itm/800117102758?_skw=makita&hash=itemba4ab218a6:g:8eEAAeSwjr5qIDLZ&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGbqG3%2BtLI1KiHDmkuqHZp4aAuwrwxvUta9%2FatDqbv31bdjE5QZYQ50QlBAMODsg8DaoW8u8ieymkjh4WAEqJb1AdcW54aMZYJWsfcBIWLhnU5sjV%2F7hl3HbhcEEsinULfPAkOlZJKTM91zaXOG%2FSoeUFa3A5yT%2Fsjs1oXcJxs83Nl5%2Bo9GA3Pdw4HD5fSYoQQbJJuo02Lo0uogTZLh3oPzspIkukAcmm1ORAS11LFF3nDv8B50AvjmnsYecfVdylcUn83sDm9pX%2Fn6kjrYjWKgR
+
+[~] Scoring: 2 x Makita BL1860B-2 18V LXT Lithium-Ion 6.0 Ah Battery - New - USA SHIP — $79.56
+  sold_avg=N/A
+  [HIGH] score=72 | Makita BL1860B-2 2-pack at $79.56 is well below typical retail of $120-$140+ for this high-demand 18V LXT battery bundle, offering strong margin potential given brand strength and fast resale velocity for Makita power tool accessories.
+  sold_avg=$None | offer=$65.00 | https://www.ebay.com/itm/800117128030?_skw=makita&hash=itemba4ab27b5e:g:XjsAAeSw5PlqIDR6&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGb%2FFQbBG8NhDaj%2BtHD4LWmkiStjzu0Zmb1YHtW%2BBaXtQOt64q0ORS2v0VBiZX72guh5YFdcj6sWr0ffFQh48fD1suYUUn4z4LAzRAtCbZxqwJ35bWmSTxX1oJviROnEcVYBRcOmtO4uRTo7dp4aKlA7tfWgIyVCErAc%2BMzrhCkfGdh6KqbKV82XRruzu6YadZCbgudnnKujhRNTgMJGWbimvIXC61Yvz9gIAPi2Eg2JlGDLZcDBnpWPSisBpLW%2BARqzRs36oAy2e4Tdvo6SRWEK
+
+[~] Scoring: Makita 18V X2 LXT 7-1/4" Circular Saw Kit (5 Ah) XSH06PT-R Certified Refurbished — $254.79
+  sold_avg=N/A
+  [MID] score=52 | Makita 18V X2 circular saw kit is a strong brand with solid resale demand, but without sold_price_avg data and the refurbished status adding uncertainty, margin potential is moderate and requires manual comp verification before committing.
+  sold_avg=$None | offer=$215.00 | https://www.ebay.com/itm/286279403053?_skw=makita&hash=item42a795062d:g:KYwAAeSw4hZqHz2R
+
+[~] Scoring: Makita XDT11Z 18V 1/4" Impact Drill 18 Volt LXT (TOOL ONLY) — $59.0
+  sold_avg=N/A
+  [MID] score=62 | Makita XDT11Z is a high-demand, recognizable LXT impact driver with strong resale velocity; without sold_price_avg data, $59 appears competitive but comparable units typically sell $65-85 used, suggesting moderate flip margin.
+  sold_avg=$None | offer=$45 | https://www.ebay.com/itm/306894899471?_skw=makita&hash=item47745c890f:g:aBcAAeSwlJxpY~u4
+
+[~] Scoring: 2 NEW Makita BL1860B-2 18V LXT Lithium-Ion 6.0 Ah Battery - USA SHIP — $79.77
+  sold_avg=N/A
+  [MID] score=62 | Makita BL1860B-2 2-pack typically sells for $90-$120 on eBay, making $79.77 a potential 15-30% margin opportunity, but no sold_price_avg data limits confidence in the spread.
+  sold_avg=$None | offer=$65.00 | https://www.ebay.com/itm/800117097876?_skw=makita&hash=itemba4ab20594:g:t78AAeSwXwdqIDKN&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGaDOMlbyyw4diGUyUe2rAyBP2jXN07ORaOCDWLwZJRjOKFlhQgOdQZyrjgW5xDMK4ZFxZqVPWnPbPozhzZLllFKM%2Fa%2BLX5coqZ9ViM%2BQEtEuyJNrZRoPlYf6%2BkmnXgWrL%2Bau4zwM8iRtpH9d1gDqatbjU%2BmZCllGEaF8ADfaEtbrS2lhlm7rnASx7SvGghCxvIYifle6zmOOi4sEJ5P0VrGut7eWwTWH8aJmd9q9RqvNnEEgx3EIhlGDOc9gPVRWue0zoxr4dxlWxAkaCNcwpVd
+
+  Scored 5 new listings for 'makita'
+
+[*] Fetching eBay listings for: 'milwaukee tool'
+  Found 25 listings
+  [!] sold comps error: 500 Server Error: Internal Server Error for url: https://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findCompletedItems&SERVICE-VERSION=1.0.0&SECURITY-APPNAME=DjAICons-fbmarket-PRD-c500fda43-eab00b08&RESPONSE-DATA-FORMAT=JSON&keywords=milwaukee+tool&itemFilter%280%29.name=SoldItemsOnly&itemFilter%280%29.value=true&paginationInput.entriesPerPage=10&sortOrder=EndTimeSoonest
+  Sold comps for 'milwaukee tool': N/A
+
+[~] Scoring: Milwaukee Tool 2967-21B M18 Fuel 1/2" High Torque Impact Wrench W/ Friction — $299.0
+  sold_avg=N/A
+  [MID] score=52 | Milwaukee M18 Fuel 1/2" High Torque is a high-demand, brand-recognized tool, but without sold_price_avg data, margin potential is uncertain; $299 is near typical market value for this model, limiting flip upside.
+  sold_avg=$None | offer=$240 | https://www.ebay.com/itm/147349007079?_skw=milwaukee+tool&hash=item224eaf6ae7:g:dfsAAeSwRPNqIBG0&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaelcO%2F03HhcWE%2BnNTaeybNPAH61S57h3smJxfzgiurM5vdjDO2De6UmyAPotTeiejsW3I%2Bb6FSq%2BTdn47yhRqXLsng2OXsB12yAPo3fgUnTPVNVSALl3dSFaOKo0RcmtSfTEMrOXnydI%2FS1bz0f40RPpF%2FnYjQAeH9nnOtcC6Uovl0bNDFRp8LJIdIQTelSr4vLE7Ki3zLBea6qbGvIQJkvoQmiGqOXB0dtndWSxjH0Sa84EUT%2BIWiNcLbbADqKZlYsbGLTijxnChVuKsP8CBWjxyy%2Fxjhzyvz2xae4xbaYg%3D%3D
+
+[~] Scoring: Milwaukee 2904-22 M18 FUEL 1/2" Hammer Drill/Driver Kit — $222.22
+  sold_avg=N/A
+  [MID] score=52 | Milwaukee M18 FUEL is a high-demand, strong-brand tool, but without sold_price_avg data the margin opportunity is uncertain; retail is ~$249-$279 suggesting modest upside at $222, but resale fees compress profit significantly.
+  sold_avg=$None | offer=$175 | https://www.ebay.com/itm/377231129434?_skw=milwaukee+tool&hash=item57d4ba3b5a:g:a58AAeSwqWNqIEMz&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbz43KlEVFIvsvKKiOk7fNM12i%2B6pD6L3qP%2FZ%2BzWxfT4UENPH29pm9PXQ1wJTH8V6wUY70yAep5JMLQsoythDz0wN%2FA043h011d%2FKlKdCevZ2mh%2B2EJNDvC%2BqL7DfIsmjBhL7aJ9HgJ9Xs48cx8o1A%2Fvf6X30zXi4RY3wZ0LPvaDj0waI7KX1sKfV1sqmqu66tZy7iSPW9Zf9XiH3cnnrR4O1AHJAOHiGJ8RFCg8pyr02Q53eIES6Bmz%2Bc1zouiQsHA%2FQgLAVaq2S9hbU4dqAf7EdSvAjbtWVT5%2FL%2BmzhIR9Q%3D%3D
+
+[~] Scoring: Milwaukee 2695-27SH M18 18V Lithium-Ion Cordless Combo 7 Tool Kit W/2x 3Ah Batt — $399.95
+  sold_avg=N/A
+  [MID] score=52 | Milwaukee M18 7-tool combo kits are strong sellers with solid brand recognition, but without sold_price_avg data the margin potential is uncertain — current $399.95 price is reasonable retail but leaves limited confirmed arbitrage upside without comp data.
+  sold_avg=$None | offer=$299.00 | https://www.ebay.com/itm/127901042838?_skw=milwaukee+tool&hash=item1dc77f0896:g:zGgAAeSwdDpqIBdq
+
+[~] Scoring: Cordless Multi-Tool Oscillating Tool for Milwaukee M18 Battery With 20Pcs Blades — $23.99
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available and this is a third-party Milwaukee M18 battery-compatible tool (not genuine Milwaukee), limiting brand premium and resale appeal to a narrower budget-conscious buyer segment.
+  sold_avg=$None | offer=18.00 | https://www.ebay.com/itm/358114378867?_skw=milwaukee+tool&hash=item536147c473:g:SZsAAeSwgnNqHlC4
+
+[~] Scoring: Milwaukee Electric - M18TRADE Compact BRUSHLESS 2-Tool Combo KIT — $155.99
+  sold_avg=N/A
+  [MID] score=62 | Milwaukee M18 brushless combo kits carry strong brand demand and resale velocity, but without sold_price_avg data, margin confidence is moderate — retail comps suggest $155.99 may offer modest flip potential if resold at $200-$220.
+  sold_avg=$None | offer=$130.00 | https://www.ebay.com/itm/355101788703?_skw=milwaukee+tool&hash=item52adb74a1f:g:yVgAAeSwSshqICVG
+
+[~] Scoring: Milwaukee 2904-20 M18 FUEL 1/2" Hammer Drill/Driver (Tool only) — $112.96
+  sold_avg=N/A
+  [MID] score=52 | Milwaukee M18 FUEL is a high-demand, strong brand tool, but without sold_price_avg data, margin potential is uncertain — market comps suggest $130-$150 sold range for tool-only, implying modest upside at $112.96.
+  sold_avg=$None | offer=$95.00 | https://www.ebay.com/itm/377229573773?_skw=milwaukee+tool&hash=item57d4a27e8d:g:0f4AAeSwUC1qHyHk&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYXIB97ohtExcRE60m9RlhyOKn1WkcuX8whUn%2FDcF2Nd0gkFPIeh9NwAC8NjuwNAMMcS8Bmpfx8QRm%2B%2Bino%2FSfjAexWwETV402cgb6L39m4N8nQrI33EruKV%2BBe79YxSiLTmIiUtfj0uMT3v4vMF3Sv6pOJouEJo4bxiFxh2TT570f%2FE2%2Fyk74jIbbRz7LtDtXqmaXnfpJFJWdjhZjkMMRBlLjvqTx5zXlkrB6dv82BBXPINC3IX%2FThiDm1itEoJQRNki42xt0BPH9RIMGWVMBd%2FCuxTnkhJxQ7Bon0EXMAug%3D%3D
+
+  Scored 6 new listings for 'milwaukee tool'
+
+==================================================
+High-value alerts this run: 1
+==================================================
+
+Email alert sent -> diowaj@gmail.com (1 listings)
+
+==================================================
+eBay Agent | keywords=['contractor tools', 'dewalt', 'makita', 'milwaukee tool']
+Price range: $20-$600
+==================================================
+
+
+[*] Fetching eBay listings for: 'contractor tools'
+  Found 25 listings
+  [!] sold comps error: HTTPSConnectionPool(host='svcs.ebay.com', port=443): Read timed out. (read timeout=10)
+  Sold comps for 'contractor tools': N/A
+
+[~] Scoring: Steelite 13in Heavy Duty Contractor Tool Bag with Double-Sided Pockets & Strap — $15.98
+  sold_avg=N/A
+  [LOW] score=32 | No sold price data available and tool bags are a saturated, low-margin category with weak brand recognition for 'Steelite', making resale upside uncertain at this price point.
+  sold_avg=$None | offer=None | https://www.ebay.com/itm/389381376261?_skw=contractor+tools&hash=item5aa8f04905:g:leQAAeSwk~JpQlhG
+
+  Scored 1 new listings for 'contractor tools'
+
+[*] Fetching eBay listings for: 'dewalt'
+  Found 25 listings
+  [!] sold comps error: HTTPSConnectionPool(host='svcs.ebay.com', port=443): Read timed out. (read timeout=10)
+  Sold comps for 'dewalt': N/A
+
+[~] Scoring: DeWalt 4 Amp Battery Charger 12V & 20V Volt MAX Li Ion Model DCB1104 — $19.95
+  sold_avg=N/A
+  [MID] score=62 | DeWalt is a high-demand brand with strong resale velocity; DCB1104 chargers typically sell $35-55 on eBay, suggesting solid margin at $19.95 despite no confirmed sold_price_avg.
+  sold_avg=$None | offer=$14.00 | https://www.ebay.com/itm/317923706915?_skw=dewalt&hash=item4a05bac823:g:bFQAAeSwJGVpnxr9
+
+[~] Scoring: 2 Pack DEWALT DCB205 20V Max XR 5.0Ah Lithium-Ion Battery New In Pack USA SELLER — $70.66
+  sold_avg=N/A
+  [MID] score=62 | DEWALT DCB205 5Ah batteries are high-demand, fast-moving items with strong brand recognition, and $70.66 for a 2-pack appears below typical retail/resale value of ~$100-130 for this configuration, though no sold_price_avg data limits conviction.
+  sold_avg=$None | offer=$60.00 | https://www.ebay.com/itm/318141693145?_skw=dewalt&hash=item4a12b8fcd9:g:moIAAeSwwRFqAJT4
+
+[~] Scoring: DeWalt DCS354B Atomic 20V MAX* Brushless Cordless Oscillating Multi-Tool — $85.99
+  sold_avg=N/A
+  [MID] score=52 | DeWalt is a strong recognizable brand with consistent resale demand, but without sold_price_avg data we can't confirm a margin gap; retail for DCS354B is ~$99-109 suggesting modest but unconfirmed flip potential at $85.99.
+  sold_avg=$None | offer=$72.00 | https://www.ebay.com/itm/366005552787?_skw=dewalt&hash=item5537a18693:g:9okAAeSw2IJpHyyl
+
+[~] Scoring: DEWALT 20V Max 5Ah Lithium-Ion Battery 2-Pack With Charger 2026 Date — $130.0
+  sold_avg=N/A
+  [MID] score=52 | No sold price data available, but DEWALT 20V 5Ah 2-pack with charger typically retails $180-220 new, suggesting modest margin potential at $130 if condition and date code (2026) are legitimate.
+  sold_avg=$None | offer=$100 | https://www.ebay.com/itm/168377177843?_skw=dewalt&hash=item27340fd6f3:g:VTsAAeSwM6hqBwM9&amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGavatoArmMHNMWCwC48bhGM4llQKWM6bn7NG5cWX4W%2B3A3nag7Y7pUSS5WvbK%2FsVb9orxjxqLZ1f3llb1EpdqBASEWyNRMwfeejQbwhG6z16NhHjX8gX%2FejfeHeA%2FGtLimtwJw6FXUayhS9vgtaLfKFTEiCBPe58ehsv66BDBL0cZzrpL7%2BNvqetvlvQB%2FNqpKAv1H0MPVqJA6kOgO4rjojgWCMwl%2FmANUT8329HV%2FC4BcIIavxQBH2lS%2Fj5Ne9scp0JaRGOunztHjtVlVW%2Fip9
+
+  Scored 4 new listings for 'dewalt'
+
+[*] Fetching eBay listings for: 'makita'
+  Found 25 listings
+  [!] sold comps error: HTTPSConnectionPool(host='svcs.ebay.com', port=443): Read timed out. (read timeout=10)
+  Sold comps for 'makita': N/A
+
+[~] Scoring: Lot of 2 18V 6.0AH LXT Battery For Makita Li-Ion W/ Charger — $38.24
+  sold_avg=N/A
+  [MID] score=62 | No sold price data available, but two 18V 6.0Ah Makita-compatible batteries plus a charger at $38.24 is well below typical market value for genuine Makita units ($120-180+), though likely aftermarket, still offering solid resale or bundle flip potential.
+  sold_avg=$None | offer=$28.00 | https://www.ebay.com/itm/126977056539?_skw=makita&hash=item1d906c1f1b:g:d2UAAOSwxdxoG-X7
+
+[~] Scoring: Makita XAG25Z-R 18V LXT 4.5"/ 5" Angle Grinder (Tool Only) Certified Refurbished — $112.49
+  sold_avg=N/A
+  [MID] score=42 | No sold_price_avg available to confirm margin, but Makita is a strong brand with steady demand; refurbished status limits resale ceiling and requires careful pricing against new units.
+  sold_avg=$None | offer=$85 | https://www.ebay.com/itm/394901859676?_skw=makita&hash=item5bf1fc2d5c:g:iy4AAeSwKYdqILLF
+
+  Scored 2 new listings for 'makita'
+
+[*] Fetching eBay listings for: 'milwaukee tool'
+  Found 25 listings
+  [!] sold comps error: HTTPSConnectionPool(host='svcs.ebay.com', port=443): Read timed out. (read timeout=10)
+  Sold comps for 'milwaukee tool': N/A
+
+[~] Scoring: Milwaukee M12 M18 Tool Lot Set — $280.0
+  sold_avg=N/A
+  [MID] score=52 | Milwaukee M12/M18 tool lots carry strong brand demand and resale velocity, but without sold_price_avg data, margin potential is uncertain at $280—vague 'lot set' title makes exact value hard to assess without knowing specific tools included.
+  sold_avg=$None | offer=$210 | https://www.ebay.com/itm/358635080425?_skw=milwaukee+tool&hash=item5380510ae9:g:-AsAAeSwmnBqIKPd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb7LaeFaP--DVMfkqAqozWEpBPse%2Bo60HfwHWuX9QltaasrXhxNckWdLQQNvnAxi1jpXWwoqeEPUJ3m3KDd5C1HivEG5AdJ7%2FbnHH2C5Dis%2FsqzkbZ%2FkKROytiLdA4tycQxIi1Fl2zTAa%2FnK6hFmCjqrs%2Fe2LFu%2BXygmUtngRIKSX%2B898N1fbbMbhd2d83tsDLNuE6%2FXcylzac4ZJxKr5DCiRby2vJkYtAsBzOcfwnMumaWo7RWbtZi1gxNdlEyOQibzXQlX7cquGTtOu6xxSPcIFXbPuVDdBXtYgL3J28nkQ%3D%3D
+
+[~] Scoring: MILWAUKEE TOOLS IMPACT WRENCH/DRIVER  2554-20, TOOL ONLY (J31005167) — $125.0
+  sold_avg=N/A
+  [MID] score=62 | Milwaukee M12 FUEL 2554-20 is a strong brand with consistent resale demand, typically selling $130-160 used, offering a modest margin at $125 with no sold data to confirm spread.
+  sold_avg=$None | offer=$95 | https://www.ebay.com/itm/206319646748?_skw=milwaukee+tool&hash=item30099bf81c:g:VnIAAeSwKXZqIFen
+
+[~] Scoring: Milwaukee 3697-27 M18 FUEL 18V 7 Tool Cordless Lithium-Ion Combo Kit — $81.65
+  sold_avg=N/A
+  [HIGH] score=72 | Milwaukee M18 FUEL 7-tool combo kits typically sell for $300-500+ on eBay, making $81.65 a potentially exceptional margin opportunity if the listing is legitimate and item is complete.
+  sold_avg=$None | offer=$75.00 | https://www.ebay.com/itm/358626486056?_skw=milwaukee+tool&hash=item537fcde728:g:2CsAAeSwrgZqHdBJ
+
+[~] Scoring: Brand New In Box Milwaukee 2457-20 3/8" Ratchet Tool — $99.99
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but Milwaukee 2457-20 typically sells for $80-100 new, leaving little room for resale profit at $99.99 current price.
+  sold_avg=$None | offer=$65.00 | https://www.ebay.com/itm/127901952014?_skw=milwaukee+tool&hash=item1dc78ce80e:g:KYQAAeSwspZqIKfO
+
+[~] Scoring: Milwaukee 2666-20 M18 18V 1/2" High Torque Cordless Impact Wrench TOOL ONLY — $135.0
+  sold_avg=N/A
+  [MID] score=62 | Milwaukee M18 High Torque Impact Wrenches are strong resale performers with consistent demand, but without sold_price_avg data, margin potential is estimated based on brand strength and typical street pricing around $179-$199 for this model tool-only.
+  sold_avg=$None | offer=$110 | https://www.ebay.com/itm/285851470253?_skw=milwaukee+tool&hash=item428e1349ad:g:SLMAAOSwPbhn-CYt
+
+[~] Scoring: Milwaukee Tool 2569-20 M12 Fuel 3/8" Extended Reach High Speed Ratchet — $249.0
+  sold_avg=N/A
+  [MID] score=42 | No sold price data available to confirm margin, but Milwaukee M12 Fuel ratchets typically sell $180-$230 on eBay making the $249 current price at or above market, limiting arbitrage upside without a significant discount.
+  sold_avg=$None | offer=$155 | https://www.ebay.com/itm/225760673626?_skw=milwaukee+tool&hash=item3490627f5a:g:H-4AAeSwhPFqDHrp&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGYWXhVSZK30JSBXylgxgY9dqi4Zwj6gTlXQh%2BpUckmU%2FvNULfbWkA%2Fz48j8raR8oIGLWKNCHBuIC4%2F09qCewLKTYyCei3jfvxveL9iDyh29DFuNFgiHboKE%2F7JmFCQ1brd7yAF0rRTvk5mLUjJBl1jwDnNUIcpazqDTBsFvK%2B%2FKC64ClzdwPOjyt37%2Bq3wZdrAjHbkpVdmIKen%2F9HLMUeniJWde%2BqAa9STfl3X1jT2O%2F5pt6nIT0ts9NbB4eKpZ5eg3fw5lGACgfwC%2FJvxVOmGzv9scn4lW7rLT%2FnnWCHIh0A%3D%3D
+
+  Scored 6 new listings for 'milwaukee tool'
+
+==================================================
+High-value alerts this run: 1
+==================================================
+
+Email alert sent -> diowaj@gmail.com (1 listings)

@@ -93,7 +93,7 @@ def fetch_keyword_sold_avg(keyword: str, app_id: str, max_results: int = 25) -> 
         "keywords": keyword,
         "itemFilter(0).name": "SoldItemsOnly",
         "itemFilter(0).value": "true",
-        "paginationInput.entriesPerPage": max_results,
+        "paginationInput.entriesPerPage": 10,
         "sortOrder": "EndTimeSoonest",
     }
 

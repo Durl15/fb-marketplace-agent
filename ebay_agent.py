@@ -13,6 +13,7 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
 
 from notifier import send_alert
 from scrapers.ebay import fetch_ebay_listings, fetch_keyword_sold_avg
+from log_pusher import push_log
 
 load_dotenv(override=True)
 
@@ -177,6 +178,8 @@ def run():
 
     if high_value:
         send_alert(high_value)
+
+    push_log("ebay", os.path.join("logs", "ebay_agent.log"))
 
 
 if __name__ == "__main__":

@@ -486,5 +486,8 @@ async def run_agent():
     if high_value:
         send_alert(high_value)
 
+    from log_pusher import push_log
+    push_log("marketplace", os.path.join("logs", "marketplace_agent.log"))
+
 if __name__ == "__main__":
     asyncio.run(run_agent())
